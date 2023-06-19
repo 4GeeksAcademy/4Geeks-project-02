@@ -25,7 +25,7 @@ window.onload = function() {
     culpable = "A goat";
     document.body.style.backgroundColor = "purple";
   } else if (randomNumberculpable >= 4 / 5 && randomNumberculpable < 1) {
-    culpable = "An old dog";
+    culpable = "A dog";
     document.body.style.backgroundColor = "darkorange";
   }
 
